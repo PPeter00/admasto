@@ -3,8 +3,6 @@ let contactInfo = document.querySelector('.contact-info');
 
 document.querySelector('#menu-btn').onclick = () =>{
    navbar.classList.toggle('active');
-   searchForm.classList.remove('active');
-   loginForm.classList.remove('active');
 };
 
 document.querySelector('#info-btn').onclick = () =>{
@@ -17,8 +15,6 @@ document.querySelector('#close-contact-info').onclick = () =>{
 
 window.onscroll = () =>{
    navbar.classList.remove('active');
-   searchForm.classList.remove('active');
-   loginForm.classList.remove('active');
    contactInfo.classList.remove('active');
 }
 
