@@ -420,9 +420,9 @@ section {
   text-transform: capitalize;
 }
 .projects .box-container .box .content .info p {
-  font-size: 1.5rem;
+  font-size: 1rem;
   color: var(--light-color);
-  line-height: 2;
+  line-height: 1.5;
 }
 .projects .box-container .box .content i {
   width: 7.5rem;
