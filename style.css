@@ -125,32 +125,6 @@ section {
 .header #menu-btn {
   display: none;
 }
-
-.header .login-form {
-  position: absolute;
-  top: 120%;
-  left: 50%;
-  transform: translateX(-50%);
-  width: 40rem;
-  background: var(--white);
-  box-shadow: var(--box-shadow);
-  padding: 2rem;
-  text-align: center;
-  -webkit-animation: fadeIn 0.2s linear;
-          animation: fadeIn 0.2s linear;
-  display: none;
-}
-.header .login-form.active {
-  display: block;
-}
-.header .login-form h3 {
-  font-size: 2.5rem;
-  color: var(--black);
-  text-transform: capitalize;
-  padding-bottom: 1rem;
-  text-transform: uppercase;
-}
-
 .contact-info {
   position: fixed;
   top: 0;
