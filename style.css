@@ -234,7 +234,7 @@ section {
 }
 .home .slide .content p {
   font-size: 2rem;
-  color: var(--black);
+  color: var(--light-bg);
   line-height: 2;
   padding: 1rem 0;
 }
