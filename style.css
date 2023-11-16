@@ -130,7 +130,7 @@ section {
   top: 0;
   right: 0;
   width: 35rem;
-  background: var(--yellow);
+  background: var(--light-color);
   height: 100%;
   text-align: center;
   z-index: 1100;
