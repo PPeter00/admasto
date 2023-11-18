@@ -130,7 +130,7 @@ section {
   top: 0;
   right: 0;
   width: 35rem;
-  background: var(--light-color);
+  background: var(--black);
   height: 100%;
   text-align: center;
   z-index: 1100;
@@ -148,7 +148,7 @@ section {
   right: 1.5rem;
   cursor: pointer;
   font-size: 4rem;
-  color: var(--black);
+  color: var(--yellow);
 }
 .contact-info #close-contact-info:hover {
   transform: rotate(90deg);
@@ -161,8 +161,8 @@ section {
   width: 5rem;
   line-height: 5rem;
   font-size: 2rem;
-  background: var(--light-bg);
-  color: var(--black);
+  background: var(--black);
+  color: var(--yellow);
   cursor: pointer;
   text-align: center;
   margin-bottom: 0.5rem;
@@ -173,13 +173,13 @@ section {
 }
 .contact-info .info h3 {
   font-size: 2rem;
-  color: var(--black);
+  color: var(--yellow);
   text-transform: capitalize;
   padding: 1rem 0;
 }
 .contact-info .info p {
   font-size: 1.5rem;
-  color: var(--light-color);
+  color: var(--yellow);
   line-height: 2;
 }
 .contact-info .share {
@@ -192,8 +192,8 @@ section {
   width: 5rem;
   line-height: 5rem;
   font-size: 2rem;
-  background: var(--light-bg);
-  color: var(--black);
+  background: var(--black);
+  color: var(--yellow);
   cursor: pointer;
   text-align: center;
   margin: 0 0.3rem;
